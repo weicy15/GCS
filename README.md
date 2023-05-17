@@ -1,7 +1,7 @@
 # Boosting Graph Contrastive Learning via Graph Contrastive Saliency
 
 This is the code for Boosting Graph Contrastive Learning via Graph Contrastive Saliency (GCS).
-GCS adaptively screens the semantic-related substructure in graphs by capitalizing on the proposed gradient-based Graph Contrastive Saliency~(GCS). The goal is to identify the most semantically discriminative structures of a graph via contrastive learning, such that we can generate semantically meaningful augmentations by leveraging on saliency.
+GCS adaptively screens the semantic-related substructure in graphs by capitalizing on the proposed gradient-based Graph Contrastive Saliency (GCS). The goal is to identify the most semantically discriminative structures of a graph via contrastive learning, such that we can generate semantically meaningful augmentations by leveraging on saliency.
 
 ## Requirements
 
